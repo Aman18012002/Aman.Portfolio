@@ -2,3 +2,11 @@ body {
     font-family: 'Raleway', sans-serif;
   
 }
+.maindiv {
+    margin-top:3rem;
+    max-width:40% !important;
+  }
+  
+  .bg-cyan-900	{
+    background-color: rgb(22 78 99);	
+  }
